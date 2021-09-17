@@ -14,3 +14,9 @@ nav:
     - Get Started: getting-started/index.md
     - Installation: getting-started/installation.md
     - Create A Basic App: getting-started/basicapp.md
+  - Create a Magicweb Application: newapp.md
+  - Rendering and Routes:
+    - Creating Routes: routes-rendering/creating-routes.md
+    - Render a Template: routes-rendering/render.md
+    - Template Variables: routes-rendering/renderhtml.md
+    - Template Inheritance: routes-rendering/template-inheritance.md
