@@ -20,3 +20,4 @@ nav:
     - Render a Template: routes-rendering/render.md
     - Template Variables: routes-rendering/renderhtml.md
     - Template Inheritance: routes-rendering/template-inheritance.md
+  - Contributing: contributing.md
